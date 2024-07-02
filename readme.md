@@ -2,6 +2,24 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
+## Installation
+To install and set up the Angular-Routing locally, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/AzumaraJoseph/Angular-Routing.git
+
+# Navigate to the project directory
+cd Angular-Routing
+
+# Install dependencies
+npm install
+
+# or if you use yarn
+yarn install
+
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.

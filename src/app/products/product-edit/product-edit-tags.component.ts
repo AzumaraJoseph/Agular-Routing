@@ -22,7 +22,6 @@ export class ProductEditTagsComponent implements OnInit {
     });
   }
 
-  // Add the defined tags
   addTags(): void {
     if (this.product) {
       if (!this.newTags) {

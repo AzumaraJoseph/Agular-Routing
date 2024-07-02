@@ -5,8 +5,6 @@ import { PageNotFoundComponent } from './page-not-found.component';
 import { AuthGuard } from './user/auth.guard';
 import { SelectiveStrategy } from './products/selective-strategy.service';
 
-
-
 @NgModule({
   declarations: [],
   imports: [

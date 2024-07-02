@@ -24,8 +24,6 @@ export class LoginComponent {
       } else {
         this.router.navigate(['/products']);
       }
-      // Navigate to the Product List page after log in.
-      //this.router.navigate(['/products']);
     } else {
       this.errorMessage = 'Please enter a user name and password.';
     }
